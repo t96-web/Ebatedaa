@@ -1,3 +1,85 @@
+
+Skip to content
+
+    t96-web
+    Ebatedaa
+
+Repository navigation
+
+    Code
+    Issues
+    Pull requests
+    Actions
+    Projects
+    Wiki
+
+    Ebatedaa
+
+/
+in
+main
+
+    Edit
+    Preview
+
+Indent mode
+Indent size
+Line wrap mode
+Editing README.md file contents
+Selection deleted
+  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 25
+ 26
+ 27
+ 28
+ 29
+ 30
+ 31
+ 32
+ 33
+ 34
+ 35
+ 36
+ 37
+ 38
+ 39
+ 40
+ 41
+ 42
+ 43
+ 44
+ 45
+ 46
+ 47
+ 48
+ 49
+ 50
+ 51
+ 52
+ 53
 <div align="center">
 
 ### 💻 Programmer | Developer | Problem Solver
@@ -51,44 +133,7 @@ machine learning, evaluation, and prediction.
 ### 🗄️ Database Projects
 Projects involving database design, SQL,
 relationships, normalization, and queries.
-
----
-
-## 📈 GitHub Activity
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 My Contribution Graph
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## 🎯 My Learning Path
-
-```text
-Programming
-     ↓
-Problem Solving
-     ↓
-Data Structures
-     ↓
-Databases
-     ↓
-Software Development
-     ↓
-Advanced Programming
-     ↓
-Specialization
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+Attach files by dragging & dropping, selecting or pasting them.
+ 
