@@ -1,7 +1,6 @@
 <div align="center">
 
-# 👋 مرحبًا، أنا YOUR_USERNAME
-
+# 👋 مرحبًا، أنا
 ### 💻 مبرمج • Developer • Problem Solver
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=مرحبًا+بكم+في+ملفي+على+GitHub;Programming+%7C+Development+%7C+Problem+Solving;أتعلم+%7C+أطبق+%7C+أبني+%7C+أطور;Turning+Ideas+Into+Code+%F0%9F%9A%80" 
