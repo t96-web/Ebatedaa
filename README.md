@@ -1,7 +1,5 @@
 <div align="center">
 
-# 👋 Hello, I'm YOUR NAME
-
 ### 💻 Programmer | Developer | Problem Solver
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile;Programming+%7C+Development+%7C+Problem+Solving;Always+Learning+%7C+Always+Building;Turning+Ideas+Into+Code+%F0%9F%9A%80" />
