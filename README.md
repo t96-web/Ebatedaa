@@ -1,4 +1,3 @@
-# 🌟 مرحباً، أنا ابتداء خالد العياشي 👋
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ibtidaa&label=Profile%20views&color=0e75b6&style=flat" alt="Ibtidaa" />
