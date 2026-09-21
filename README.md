@@ -1,74 +1,96 @@
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ibtidaa&label=Profile%20views&color=0e75b6&style=flat" alt="Ibtidaa" />
-</div>
 
-<h3 align="center">طالبة في مجال الذكاء الاصطناعي 🤖 ومطورة برمجيات شغوفة بالتعلم المستمر | جامعة تعز</h3>
+# 👋 Hello, I'm YOUR NAME
 
----
+### 💻 Programmer | Developer | Problem Solver
 
-## 👩‍💻 نبذة عني
-- 📚 أدرس حالياً **الذكاء الاصطناعي وهندسة البرمجيات**.
-- 🧠 مهتمة بتعلم وتطبيق نماذج **تعلم الآلة (Machine Learning)** و**تحليل البيانات**.
-- 💻 أعمل على مشاريع برمجية باستخدام اللغات التي أتقنها وأسعى دائماً لتطوير مهاراتي.
-- 🎯 هدفي: بناء حلول ذكية تساهم في حل المشكلات الحقيقية.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile;Programming+%7C+Development+%7C+Problem+Solving;Always+Learning+%7C+Always+Building;Turning+Ideas+Into+Code+%F0%9F%9A%80" />
 
-## 🛠️ المهارات والتقنيات (Tech Stack)
-
-### لغات البرمجة:
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assembly&logoColor=white" alt="Assembly 8086"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-</p>
-
-### علم البيانات والذكاء الاصطناعي:
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-</p>
-
-### تطوير الويب وقواعد البيانات:
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL"/>
-</p>
-
-### الأدوات والبيئات:
-<p align="left">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
-
----
-
-## 📈 إحصائيات GitHub الخاصة بي
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ibtidaa&show_icons=true&theme=radium&locale=ar" alt="Ibtidaa's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibtidaa&theme=radium" alt="Ibtidaa's GitHub Streak" />
 </div>
 
 ---
 
-## 🚀 مشاريعي الحالية وأهدافي
-*   أعمل حالياً على تطوير مهاراتي في خوارزميات تعلم الآلة وتحليل البيانات باستخدام بايثون.
-*   مهتمة بمجال التصميم المنطقي والبنية التحتية للحواسيب.
-*   أخطط لإنشاء مشاريع ذكاء اصطناعي تفاعلية تخدم المجتمع.
+## 💻 About My Profile
 
-## 📫 للتواصل معي:
-<p align="left">
-  <a href="mailto:ibtidaa.su.edu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <!-- أضيفي روابطك هنا -->
-</p>
+This GitHub profile is my programming workspace.
+
+I use it to learn, build projects, practice programming,
+and document my progress step by step.
 
 ---
-<p align="center"><i>"من جدّ وجد، ومن سار على الدرب وصل."</i></p>
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,vscode,oracle,mysql,jupyter,linux" />
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+- 🐍 Python
+- 🧩 Problem Solving
+- 🗄️ Databases
+- 🔧 Git & GitHub
+- 💻 Software Development
+- 📊 Data & Programming Concepts
+
+---
+
+## 🚀 Projects
+
+### 🎓 Student Management System
+A programming project focused on OOP, data management,
+validation, and structured software design.
+
+### 📊 Student Performance Prediction
+A data-driven project involving data preprocessing,
+machine learning, evaluation, and prediction.
+
+### 🗄️ Database Projects
+Projects involving database design, SQL,
+relationships, normalization, and queries.
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 My Contribution Graph
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🎯 My Learning Path
+
+```text
+Programming
+     ↓
+Problem Solving
+     ↓
+Data Structures
+     ↓
+Databases
+     ↓
+Software Development
+     ↓
+Advanced Programming
+     ↓
+Specialization
